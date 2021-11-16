@@ -1,2 +1,1 @@
-# CHECKPOINT-FRONT-END-1
-# Bruno Lucas Furquim - CTD Turma 10
+# Bruno Lucas Furquim - CTD Turma 10 - CHECKPOINT-FRONT-END-1
